@@ -1,7 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
     app: {
-        baseURL: '/50ndk/',
         head: {
             script: [
                 ...(process.env.PIRSCH_CODE
