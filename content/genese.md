@@ -1,5 +1,5 @@
 ---
-title: "11 janvier 2024 - génèse du livre"
+title: "Génèse du livre"
 description: "Avancement - 11 janvier 2024"
 tags:
     - génèse

@@ -1,5 +1,5 @@
 ---
-title: "31 janvier 2024 - 20 jours après le début du projet"
+title: "12 chapitres - 20 jours après le début du projet"
 description: "Avancement - 31 janvier 2024"
 tags:
     - avancement du projet

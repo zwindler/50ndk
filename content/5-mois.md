@@ -1,5 +1,5 @@
 ---
-title: "05 juin 2024 - 5 mois après le début du projet"
+title: "33 chapitres - 5 mois après le début du projet"
 description: "Avancement - 05 juin 2024"
 tags:
     - avancement du projet
