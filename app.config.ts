@@ -1,5 +1,5 @@
 export default defineAppConfig({
-    logo: '/images/logo.svg',
+    logo: '/images/cover.png',
 
     url: 'https://50ndk.zwindler.fr/',
 
