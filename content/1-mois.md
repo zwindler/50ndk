@@ -12,11 +12,26 @@ head:
 
 ---
 
-## Deuxième point d'avancement depuis le début du projet
+## 22 chapitres écrits
 
 ![](https://geps.dev/progress/44)
 
-J'ai ajouté 10 chapitres depuis le point précédent (22/50), j'avance vite.
+Ca fait pile un mois que j'ai commancé le projet et j'ai ajouté 10 chapitres depuis le point précédent (22/50) : j'avance vite.
+
+Voici la liste des chapitres que j'ai ajouté depuis la denière fois :
+
+* crc (openshift version desktop)
+* desktop-kubernetes (ensemble de scripts bash pour créer des VMs locales)
+* minikube (exemple avec Hyper-V sous Windows 11)
+* k3d
+* orbstack
+* k0s
+* kairos Linux
+* k3sup
+* CIVO cloud
+* Exoscale (via des appels à l'API)
+
+## Avancement
 
 A priori j'ai terminé l'écriture de tous les chapitres pour les "outils Desktop", qui permettent d'installer un cluster Kubernetes basique sur votre machine de développement.
 

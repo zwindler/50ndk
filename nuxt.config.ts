@@ -17,8 +17,9 @@ export default defineNuxtConfig({
             ],
         },
     },
+
     extends: [
         '@bloggrify/core',
+        '@bloggrify/mistral',
     ],
-    modules: ['@nuxtjs/tailwindcss']
 })

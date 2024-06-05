@@ -12,17 +12,32 @@ head:
 
 ---
 
-## Premier point d'avancement depuis le début du projet
+## Liste des chapitres qui ont été écrits jusqu'à présent
 
 ![](https://geps.dev/progress/24)
+
+* kind
+* microk8s
+* docker Desktop
+* Rancher Desktop
+* lima-vm avec Podman Desktop
+* pulumi (exemple avec MKS d'OVHCloud)
+* opentofu (exemple avec GKE de Google Cloud)
+* kubeadm (exemple avec la CLI)
+* kubeadm (exemple avec la ClusterConfiguration)
+* k3s (exemple avec la CLI)
+* Talos Linux
+* Binaire par binaire
+
+## Avancement du projet
 
 Les premiers jours ont été très productifs.
 
 D'abord, une liste de chapitres prévisionelle a été écrite, avec les outils qui me semblaient les plus prometteurs parmis la liste du tableur que j'avais initialement écrite le 11/01.
 
-![](01-31-chapitres.png)
+![](20-jours/01-31-chapitres.png)
 
-Ensuite, un format a été choisi : le MarkDown. J'ai l'habitude d'écrire du Markdown au kilomètre (notamment grâce au [blog](https://blog.zwindler.fr) et tous mes supports de conférence) et je suis donc efficace avec.
+Ensuite, un format a été choisi : le Markdown. J'ai l'habitude d'écrire du Markdown au kilomètre (notamment grâce au [blog](https://blog.zwindler.fr) et tous mes supports de conférence) et je suis donc efficace avec.
 
 J'ai trouvé plusieurs références sur le web pour transformer des fichiers markdown en livre, notamment en ebook.
 
@@ -46,4 +61,4 @@ pdf: html
 	wkhtmltopdf ../50-nuances-de-kubernetes.html ../50-nuances-de-kubernetes.pdf
 ```
 
-J'ai déjà écrit 12 méthodes d'installer Kubernetes sur 50, en m'appuyant sur le travail que j'avais déjà effectué sur mon blog.Les prochains chapitres iront forcément moins vite, à mesure que je découvrirai des outils plus complexes / exotiques.
+J'ai déjà écrit 12 méthodes d'installer Kubernetes sur 50, en m'appuyant sur le travail que j'avais déjà effectué sur mon blog. Les prochains chapitres iront forcément moins vite, à mesure que je découvrirai des outils plus complexes / exotiques.

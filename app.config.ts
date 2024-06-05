@@ -5,15 +5,11 @@ export default defineAppConfig({
 
     theme: 'mistral',
 
-    // If you only have one author, you can set the author here
-    // It will be used as the default author for all posts AND as the general logo/description/socials for the website
+    // The name of the blog itself
     name: '50 nuances de Kubernetes',
     avatar: '/images/avatar.jpg',
-
     // The description of the blog if any
-    description:
-        'Denis Germain, auteur du livre "50 nuances de Kubernetes", est SRE le jour, blogger tech la nuit (https://blog.zwindler.fr) et membre organisateur des conférences Kubernetes Community Days France et BDX I/O entre les deux.',
-    
+    description: 'Denis Germain, auteur du livre "50 nuances de Kubernetes", est SRE le jour, blogger tech la nuit (https://blog.zwindler.fr) et membre organisateur des conférences Kubernetes Community Days France et BDX I/O entre les deux.',
     socials: {
         twitter: 'https://x.com/zwindler',
         mastodon: 'https://framapiaf.org/deck/@zwindler',
@@ -25,13 +21,13 @@ export default defineAppConfig({
     },
 
     newsletter: {
-        enabled: true,
+        enabled: false,
         form_action: 'YOUR_NEWSLETTER_FORM_ACTION',
         provider: 'demo',
     },
 
     comments: {
-        enabled: true,
+        enabled: false,
         hyvor_talk: {
             website_id: '10519', // Replace with your Hyvor Talk website ID (it won't work with this one)
         },
@@ -45,6 +41,7 @@ export default defineAppConfig({
     authors: [
         {
             username: 'zwindler',
+            default: true,
             name: 'Denis Germain',
             description:
             'Je suis Site Reliability Engineer le jour, blogger tech la nuit sur blog.zwindler.fr et membre organisateur des conférences KCD France et BDX I/O entre les deux. Je me passionne pour l’infrastructure, comment l’automatiser et l’observer, mais surtout, partager ce que je découvre. J’aime aussi la science-fiction, courir (pas trop vite) et découvrir de nouveaux horizons.',
@@ -61,6 +58,14 @@ export default defineAppConfig({
 
     menu: () => [
         { name: 'Home', path: '/' },
+        { name: 'Documentation', path: '/about' },
         { name: 'Archives', path: '/archives' },
+    ],
+
+    robots: [
+        {
+            UserAgent: '*',
+            Disallow: ['/'],
+        },
     ],
 })
