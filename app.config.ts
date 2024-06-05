@@ -2,6 +2,9 @@ export default defineAppConfig({
     logo: '/images/logo.svg',
 
     url: 'https://zwindler.github.io/50ndk/',
+    app: {
+        baseURL: '/50ndk/',
+    },
 
     theme: 'mistral',
 
