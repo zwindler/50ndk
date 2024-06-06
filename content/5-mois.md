@@ -1,9 +1,9 @@
 ---
 title: "33 chapitres - 5 mois après le début du projet"
-description: "Avancement - 05 juin 2024"
+description: "Avancement - 11 juin 2024"
 tags:
     - avancement du projet
-date: "2024-06-05"
+date: "2024-06-11"
 cover: "covers/50ndk-6.jpeg"
 head:
     meta:
