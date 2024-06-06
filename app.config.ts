@@ -21,9 +21,9 @@ export default defineAppConfig({
     },
 
     newsletter: {
-        enabled: false,
-        form_action: 'YOUR_NEWSLETTER_FORM_ACTION',
-        provider: 'demo',
+        enabled: true,
+        form_action: 'https://rssfeedpulse.com/campaign/83cee038-722a-4fca-9e57-e8fc26326a06/subscribe',
+        provider: 'rssfeedpulse.com',
     },
 
     comments: {
