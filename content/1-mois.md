@@ -1,5 +1,5 @@
 ---
-title: "22 chapitres - 1 mois après le début du projet"
+title: "22 chapitres - 1 mois après"
 description: "Avancement - 11 février 2024"
 tags:
     - avancement du projet

@@ -1,5 +1,5 @@
 export default defineAppConfig({
-    logo: '/images/cover.png',
+    logo: '/images/50ndk-6-logo.png',
 
     url: 'https://50ndk.zwindler.fr/',
 
@@ -9,7 +9,7 @@ export default defineAppConfig({
     name: '50 nuances de Kubernetes',
     avatar: '/images/avatar.jpg',
     // The description of the blog if any
-    description: 'Denis Germain, auteur du livre "50 nuances de Kubernetes", est SRE le jour, blogger tech la nuit (https://blog.zwindler.fr) et membre organisateur des conférences Kubernetes Community Days France et BDX I/O entre les deux.',
+    description: 'Site de promotion du livre (en cours d`écriture) "50 Nuances de Kubernetes"',
     socials: {
         twitter: 'https://x.com/zwindler',
         mastodon: 'https://framapiaf.org/deck/@zwindler',
@@ -44,7 +44,7 @@ export default defineAppConfig({
             default: true,
             name: 'Denis Germain',
             description:
-            'Je suis Site Reliability Engineer le jour, blogger tech la nuit sur blog.zwindler.fr et membre organisateur des conférences KCD France et BDX I/O entre les deux. Je me passionne pour l’infrastructure, comment l’automatiser et l’observer, mais surtout, partager ce que je découvre. J’aime aussi la science-fiction, courir (pas trop vite) et découvrir de nouveaux horizons.',
+            'Denis Germain, auteur du livre "50 nuances de Kubernetes", est SRE le jour, blogger tech la nuit (https://blog.zwindler.fr) et membre organisateur des conférences Kubernetes Community Days France et BDX I/O entre les deux.',
             avatar: '/images/avatar.jpg',
             socials: {
                 twitter: 'https://x.com/zwindler',
