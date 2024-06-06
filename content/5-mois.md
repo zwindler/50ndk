@@ -31,6 +31,6 @@ De plus, la plupart des méthodes qui restent nécessitent un travail préparato
 
 J'ai cependant fait relire un des chapitres dont je suis le plus content (Talos Linux) à Quentin, alias [@TheBidouilleur](https://x.com/TheBidouilleur).
 
-Suite à de nombreuses remarques, j'ai commencer à explorer l'hypothèse de faire éditer mon livre par un vrai éditeur, et pas en auto édition comme je l'avais initialement envisagé. Pas certain que cela aboutisse, mais "si on essaye pas, on ne saura pas s'il y a un piège".
+Suite à de nombreuses remarques, j'ai commencer à explorer l'hypothèse de faire éditer mon livre par un vrai éditeur, et pas en auto édition comme je l'avais initialement envisagé. Je ne suis pas certain que cela aboutisse, mais "si on essaye pas, on ne saura pas s'il y a un piège".
 
 On verra ce que ça donne.

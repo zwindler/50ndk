@@ -32,7 +32,7 @@ La cadence ralentie un peu, ce qui était prévu puisqu'on arrive dans les outil
 
 Je suis quand même super content car on a dépassé la barre symbolique de la moitié du contenu du livre (sans compter toutes les relectures et remise en forme, bien entendu... 🙈)
 
-Suite à une idée qu'on m'a soufflé quand j'ai montré le livre (une chanceuse :-P), j'ajoute un élément au livre : un cartouche en fin de chaque chapitre dans la conclusion qui permet d'avoir un aperçu des forces et des faiblesses de la solution.
+Suite à une idée qu'on m'a soufflé quand j'ai montré le livre, j'ajoute un élément au livre : un cartouche en fin de chaque chapitre qui sert de conclusion et qui permet d'avoir un aperçu des forces et des faiblesses de la solution.
 
 ![](2-mois/cartouche.png)
 
@@ -56,7 +56,7 @@ J'ai cependant dû corriger quelques bugs pénibles comme la configuration d'Ima
     <policy domain="coder" rights="none" pattern="XPS" />
 ```
 
-J'ai aussi ajouté la [police Luciole](http://luciole-vision.com/) que j'ajoute dans tous mes side projects. Elle est réputée plus simple à lire pour les personnes ayant des difficultées à lire (personnes malvoyantes ou dyslexiques). 
+J'ai aussi ajouté la [police Luciole](http://luciole-vision.com/), maintenant inclue dans tous mes side projects. Elle a été conçue dans un projet de recherche et est réputée plus simple à lire pour les personnes ayant des difficultées à lire (personnes malvoyantes ou dyslexiques). 
 
 Sur le papier, ce choix ne me coûte pas grand chose. Dans la pratique, c'est moins clair que ça : je me suis heurté à des problématiques pénibles. La police ne contient pas les emojis, ce qui me fait perdre tous les emojis à la compilation du PDF (pas sur le support HTML).
 
