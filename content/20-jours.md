@@ -4,7 +4,7 @@ description: "Avancement - 31 janvier 2024"
 tags:
     - avancement du projet
 date: "2024-01-31"
-cover: "cover.png"
+cover: "20-jours/makefile.png"
 head:
     meta:
         - name: 'robots'

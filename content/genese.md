@@ -5,7 +5,7 @@ tags:
     - génèse
     - avancement du projet
 date: "2024-01-11"
-cover: "cover.png"
+cover: "covers/50ndk-5.jpeg"
 head:
     meta:
         - name: 'robots'

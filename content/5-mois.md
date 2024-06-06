@@ -4,7 +4,7 @@ description: "Avancement - 05 juin 2024"
 tags:
     - avancement du projet
 date: "2024-06-05"
-cover: "cover.png"
+cover: "covers/50ndk-6.jpeg"
 head:
     meta:
         - name: 'robots'
