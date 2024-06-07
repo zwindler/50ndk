@@ -1,5 +1,5 @@
 ---
-title: "10 chapitres de plus et une couverture"
+title: "10 jours, 10 chapitres (et une couverture)"
 description: "Avancement - 11 février 2024"
 tags:
     - avancement du projet

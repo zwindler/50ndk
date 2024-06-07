@@ -1,5 +1,5 @@
 ---
-title: "Les 12 premiers chapitres et le tooling"
+title: "12 premiers chapitres et première version du tooling de génération du livre"
 description: "Avancement - 31 janvier 2024"
 tags:
     - avancement du projet

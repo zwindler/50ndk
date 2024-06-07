@@ -1,9 +1,9 @@
 ---
-title: "Préparation du site, premières relectures"
-description: "Avancement - 06 juin 2024"
+title: "Préparation du site de promotion, premières relectures"
+description: "Avancement - 07 juin 2024"
 tags:
     - avancement du projet
-date: "2024-06-06"
+date: "2024-06-07"
 cover: "covers/50ndk-6.jpeg"
 head:
     meta:

@@ -1,5 +1,5 @@
 ---
-title: "29/50 chapitres, amélioration du tooling"
+title: "29/50 chapitres, amélioration du tooling de génération"
 description: "Avancement - 10 mars 2024"
 tags:
     - avancement du projet
@@ -30,9 +30,9 @@ Voici la liste des chapitres qui ont été écrits depuis la dernière fois :
 
 La cadence ralentie un peu, ce qui était prévu puisqu'on arrive dans les outils plus complexes et/ou que je connais moins (voire pas du tout).
 
-Je suis quand même super content car on a dépassé la barre symbolique de la moitié du contenu du livre (sans compter toutes les relectures et remise en forme, bien entendu... 🙈)
+Je suis quand même content car on a dépassé la barre symbolique de la moitié du contenu du livre (si on oublie qu'il y aura toutes les relectures et remise en forme, bien entendu... 🙈)
 
-Suite à une idée qu'on m'a soufflé quand j'ai montré le livre, j'ajoute un élément au livre : un cartouche en fin de chaque chapitre qui sert de conclusion et qui permet d'avoir un aperçu des forces et des faiblesses de la solution.
+Suite à une idée qu'on m'a soufflé quand j'ai montré le brouillon du livre, j'ajoute un élément à chaque chapitre : un *cartouche* en fin de chaque chapitre qui sert de conclusion et qui permet d'avoir un aperçu des forces et des faiblesses de la solution.
 
 ![](2-mois/cartouche.png)
 
