@@ -36,7 +36,7 @@ Mais surtout, j'ai travaillé sur d'autres choses autour du livre lui même.
 
 J'ai essayé de trouver des solutions pour une génération propre du livre. J'ai aussi fait relire un des chapitres dont je suis le plus content (Talos Linux) à Quentin, alias [@TheBidouilleur](https://x.com/TheBidouilleur).
 
-J'ai aussi travaillé sur la conception et la rédaction de ce site, et sur d'éventuels logos (avec un sondage pour essayer d'avoir un avis un peu plus large que juste le mien :P).
+J'ai aussi travaillé sur la conception et la rédaction de ce site, et sur d'éventuels logos (avec un sondage pour essayer d'avoir un avis un peu plus large que juste le mien).
 
 ![](images/5-mois/sondage.png)
 
