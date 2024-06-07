@@ -31,13 +31,13 @@ Le 11 janvier 2024, je me réveille avec une drôle d'idée en tête. Faire un l
 
 Je "pitche" l'idée sur Twitter et rapidement, j'ai plus de 200 personnes intéressées par le projet.
 
-![](genese/genese1.png)
+![](images/genese/genese1.png)
 
 [x.com/zwindler](https://x.com/zwindler/status/1745358435762274658)
 
 Je fais donc une recherche sur Internet des options disponibles et j'arrive rapidement à créer un tableur avec presque 70 lignes
 
-![](genese/genese2.png)
+![](images/genese/genese2.png)
 
 [x.com/zwindler](https://x.com/zwindler/status/1745456748956409899)
 

@@ -34,7 +34,7 @@ Je suis quand même content car on a dépassé la barre symbolique de la moitié
 
 Suite à une idée qu'on m'a soufflé quand j'ai montré le brouillon du livre, j'ajoute un élément à chaque chapitre : un *cartouche* en fin de chaque chapitre qui sert de conclusion et qui permet d'avoir un aperçu des forces et des faiblesses de la solution.
 
-![](2-mois/cartouche.png)
+![](images/toto/cartouche.png)
 
 J'ai aussi pas mal retravaillé la partie génération du livre, suite à la découverte d'un répo bien plus avancé que ce que j'avais trouvé jusqu'à présent.
 

@@ -35,7 +35,7 @@ Les premiers jours ont été très productifs.
 
 D'abord, une liste de chapitres prévisionelle a été écrite, avec les outils qui me semblaient les plus prometteurs parmis la liste du tableur que j'avais initialement écrite le 11/01.
 
-![](20-jours/01-31-chapitres.png)
+![](images/20-jours/01-31-chapitres.png)
 
 Ensuite, un format a été choisi : le Markdown. J'ai l'habitude d'écrire du Markdown au kilomètre (notamment grâce au [blog](https://blog.zwindler.fr) et tous mes supports de conférence) et je suis donc efficace avec.
 

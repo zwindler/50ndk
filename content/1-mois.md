@@ -41,4 +41,4 @@ Il n'y a pas encore eu de grosses modification au niveau de la mise en page, je 
 
 J'ai aussi essayé de générer un nuancier avec le logo de Kubernetes dedans et l'IA m'a donné que ça (au mieux). Bof...
 
-![](1-mois/cover.png)
+![](images/1-mois/cover.png)

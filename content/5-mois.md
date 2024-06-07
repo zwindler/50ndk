@@ -37,6 +37,6 @@ J'ai essayé de trouver des solutions pour une génération propre du livre. J'a
 
 J'ai aussi travaillé sur la conception et la rédaction de ce site, et sur d'éventuels logos (avec un sondage pour essayer d'avoir un avis un peu plus large que juste le mien :P).
 
-![](5-mois/sondage.png)
+![](images/5-mois/sondage.png)
 
 Enfin, suite à de nombreuses remarques, j'ai commencer à explorer l'hypothèse de faire éditer mon livre par un vrai éditeur, et pas en auto édition comme je l'avais initialement envisagé. Je ne suis pas certain que cela aboutisse, mais on verra ce que ça donne.
