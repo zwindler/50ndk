@@ -1,5 +1,5 @@
 ---
-title: "12 chapitres - 20 jours après"
+title: "Les 12 premiers chapitres et le tooling"
 description: "Avancement - 31 janvier 2024"
 tags:
     - avancement du projet

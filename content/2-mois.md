@@ -1,5 +1,5 @@
 ---
-title: "29 chapitres - 2 mois après"
+title: "29/50 chapitres, amélioration du tooling"
 description: "Avancement - 10 mars 2024"
 tags:
     - avancement du projet
