@@ -31,7 +31,7 @@ head:
 
 ## Avancement du projet
 
-Les premiers jours ont été très productifs. D'abord, une liste de chapitres prévisionelle a été produite, avec les outils qui me semblaient les plus prometteurs parmis la liste du tableur que j'avais initialement écrite le 11/01 (plus de 70 solutions pour installer Kubernetes).
+Les premiers jours ont été très productifs. D'abord, une liste de chapitres prévisionnelle a été produite, avec les outils qui me semblaient les plus prometteurs parmi la liste du tableur que j'avais initialement écrite le 11/01 (plus de 70 solutions pour installer Kubernetes).
 
 ![](images/20-jours/01-31-chapitres.png)
 

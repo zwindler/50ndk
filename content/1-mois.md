@@ -16,7 +16,7 @@ head:
 
 ![](https://geps.dev/progress/44)
 
-Ca fait pile un mois que j'ai commancé le projet, j'ai ajouté 10 chapitres depuis le post précédent. Voici la liste des chapitres que j'ai ajouté depuis la dernière fois :
+Ca fait pile un mois que j'ai commencé le projet, j'ai ajouté 10 chapitres depuis le post précédent. Voici la liste des chapitres écrits depuis la dernière fois :
 
 * crc (openshift version desktop)
 * desktop-kubernetes (ensemble de scripts bash pour créer des VMs locales)
@@ -35,7 +35,7 @@ A priori, j'ai terminé l'écriture de tous les chapitres de la section "outils 
 
 J'ai "juste" besoin d'un Mac pour installer Orbstack, un outil réputé pour fournir une meilleure expérience utilisateur que Docker Desktop pour MacOS, mais qui ne fonctionne... QUE sous MacOS...
 
-Il faudra qu'on m'en prête un, ou alors que j'essaye d'installer un machine sous MacOS (via un [Mac Mini à distance de chez Scaleway par exemple](https://www.scaleway.com/fr/hello-m1/))
+Il faudra qu'on m'en prête un, ou alors que j'essaye d'installer une machine sous MacOS (via un [Mac Mini à distance de chez Scaleway par exemple](https://www.scaleway.com/fr/hello-m1/))
 
 Il n'y a pas encore eu de grosse modification au niveau de la mise en page, je reste sur mon Makefile qui utilise pandoc pour l'instant.
 
