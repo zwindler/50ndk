@@ -31,9 +31,7 @@ head:
 
 ## Avancement du projet
 
-Les premiers jours ont été très productifs.
-
-D'abord, une liste de chapitres prévisionelle a été écrite, avec les outils qui me semblaient les plus prometteurs parmis la liste du tableur que j'avais initialement écrite le 11/01.
+Les premiers jours ont été très productifs. D'abord, une liste de chapitres prévisionelle a été produite, avec les outils qui me semblaient les plus prometteurs parmis la liste du tableur que j'avais initialement écrite le 11/01 (plus de 70 solutions pour installer Kubernetes).
 
 ![](images/20-jours/01-31-chapitres.png)
 
@@ -45,7 +43,7 @@ J'ai trouvé plusieurs références sur le web pour transformer des fichiers mar
 * [github.com/sydasif/my-pandoc-book](https://github.com/sydasif/my-pandoc-book)
 * [medium.com/@sydasif78/book-creation-with-pandoc-and-markdown-893c7d72cb35](https://medium.com/@sydasif78/book-creation-with-pandoc-and-markdown-893c7d72cb35)
 
-Avec un petit Makefile, on a quelque chose de fonctionnel rapidement, même si pour l'instant ça reste "un peu moche". On fera mieux plus tard, pour l'instant je me concentre sur le contenu.
+Avec un petit Makefile, on a quelque chose de fonctionnel rapidement, même si pour l'instant ça reste "un peu moche". On fera mieux plus tard, pour l'instant, je me concentre sur le contenu.
 
 ```Makefile
 clean:
@@ -61,4 +59,4 @@ pdf: html
 	wkhtmltopdf ../50-nuances-de-kubernetes.html ../50-nuances-de-kubernetes.pdf
 ```
 
-J'ai déjà écrit 12 méthodes d'installer Kubernetes sur 50, en m'appuyant sur le travail que j'avais déjà effectué sur mon blog. Les prochains chapitres iront forcément moins vite, à mesure que je découvrirai des outils plus complexes / exotiques.
+J'ai déjà écrit 12 méthodes pour installer Kubernetes (sur 50 prévues), en m'appuyant sur le travail que j'avais déjà effectué sur mon blog. Les prochains chapitres iront forcément moins vite, à mesure que je découvrirai des outils plus complexes ou exotiques.

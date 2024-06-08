@@ -28,11 +28,11 @@ Voici la liste des chapitres qui ont été écrits depuis la dernière fois :
 
 ## Avancement du projet
 
-La cadence ralentie un peu, ce qui était prévu puisqu'on arrive dans les outils plus complexes et/ou que je connais moins (voire pas du tout).
+La cadence ralentie un peu, ce qui était prévu, puisqu'on arrive dans les outils plus complexes et/ou que je connais moins (voire pas du tout).
 
 Je suis quand même content car on a dépassé la barre symbolique de la moitié du contenu du livre (si on oublie qu'il y aura toutes les relectures et remise en forme, bien entendu... 🙈)
 
-Suite à une idée qu'on m'a soufflé quand j'ai montré le brouillon du livre, j'ajoute un élément à chaque chapitre : un *cartouche* en fin de chaque chapitre qui sert de conclusion et qui permet d'avoir un aperçu des forces et des faiblesses de la solution.
+Suite à une idée qu'on m'a soufflé quand j'ai montré le brouillon du livre, j'ajoute un élément à chaque chapitre : un *cartouche* à la toute fin qui sert de conclusion et qui permet d'avoir un aperçu rapide des forces et des faiblesses de la solution.
 
 ![](images/toto/cartouche.png)
 
@@ -58,6 +58,6 @@ J'ai cependant dû corriger quelques bugs pénibles comme la configuration d'Ima
 
 J'ai aussi ajouté la [police Luciole](http://luciole-vision.com/), maintenant inclue dans tous mes side projects. Elle a été conçue dans un projet de recherche et est réputée plus simple à lire pour les personnes ayant des difficultées à lire (personnes malvoyantes ou dyslexiques). 
 
-Sur le papier, ce choix ne me coûte pas grand chose. Dans la pratique, c'est moins clair que ça : je me suis heurté à des problématiques pénibles. La police ne contient pas les emojis, ce qui me fait perdre tous les emojis à la compilation du PDF (pas sur le support HTML).
+Sur le papier, ce choix ne me coûte pas grand chose. Dans la pratique, c'est moins clair que ça : je me suis heurté à des problématiques pénibles. La police ne contient pas les emojis, ce qui me fait perdre tous les emojis à la génération du PDF (pas sur le support HTML).
 
 De même, tout ce qui est blocs de code n'a pas de wraping mais une barre de défilement, qui fonctionne en HTML mais pas en ebook / pdf. Ce sont des problèmes qui devront être réglés si je passe par un PDF pour l'édition du livre.

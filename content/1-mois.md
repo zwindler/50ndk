@@ -16,7 +16,7 @@ head:
 
 ![](https://geps.dev/progress/44)
 
-Ca fait pile un mois que j'ai commancé le projet et j'ai ajouté 10 chapitres depuis le point précédent. Voici la liste des chapitres que j'ai ajouté depuis la denière fois :
+Ca fait pile un mois que j'ai commancé le projet, j'ai ajouté 10 chapitres depuis le post précédent. Voici la liste des chapitres que j'ai ajouté depuis la dernière fois :
 
 * crc (openshift version desktop)
 * desktop-kubernetes (ensemble de scripts bash pour créer des VMs locales)
@@ -31,13 +31,13 @@ Ca fait pile un mois que j'ai commancé le projet et j'ai ajouté 10 chapitres d
 
 ## Avancement
 
-A priori j'ai terminé l'écriture de tous les chapitres pour les "outils Desktop", qui permettent d'installer un cluster Kubernetes basique sur votre machine de développement.
+A priori, j'ai terminé l'écriture de tous les chapitres de la section "outils Desktop" (ceux qui permettent d'installer un cluster Kubernetes basique sur votre machine de développement).
 
-J'ai "juste" besoin d'un Mac pour installer Orbstack, a priori un outil avec une bien meilleure expérience utilisateur que Docker Desktop pour MacOS, mais qui ne fonctionne... QUE sous MacOS...
+J'ai "juste" besoin d'un Mac pour installer Orbstack, un outil réputé pour fournir une meilleure expérience utilisateur que Docker Desktop pour MacOS, mais qui ne fonctionne... QUE sous MacOS...
 
 Il faudra qu'on m'en prête un, ou alors que j'essaye d'installer un machine sous MacOS (via un [Mac Mini à distance de chez Scaleway par exemple](https://www.scaleway.com/fr/hello-m1/))
 
-Il n'y a pas encore eu de grosses modification au niveau de la mise en page, je reste sur mon Makefile qui utilise pandoc pour l'instant.
+Il n'y a pas encore eu de grosse modification au niveau de la mise en page, je reste sur mon Makefile qui utilise pandoc pour l'instant.
 
 J'ai aussi essayé de générer un nuancier avec le logo de Kubernetes dedans et l'IA m'a donné que ça (au mieux). Bof...
 

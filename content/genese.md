@@ -13,11 +13,11 @@ head:
 
 ---
 
-Note: pour ajouter un peu de contexte à ce premier post, je suis blogger tech un peu moins de 15 ans, et fervent utilisateur de Kubernetes depuis 2017 (en production depuis 2018).
-
 ## D'où est venue l'idée du livre ?
 
 ![](https://geps.dev/progress/0)
+
+Pour ajouter un peu de contexte à ce premier post, je suis blogger tech depuis un peu moins de 15 ans, et fervent utilisateur de Kubernetes depuis 2017 (en production depuis 2018).
 
 J'ai, par le passé, déjà testé plusieurs méthodes différentes pour installer et utiliser Kubernetes. Et je sais qu'il en existe beaucoup d'autres, de par la veille technologique que j'ai pu faire ou bien que j'ai rencontré professionnellement.
 

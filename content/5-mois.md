@@ -28,9 +28,9 @@ Voici la liste des chapitres qui ont été écrits depuis la dernière fois :
 
 Le projet a ralenti encore un peu, pour plusieurs raison. 
 
-D'abord, j'ai été assez occupé par [ma participation à la Kubecon n'a pas aidé](https://blog.zwindler.fr/2024/03/22/kubecon-eu-2024-vendredi/) (c'était très intense) en mars et je n'ai pas repris avant fin mai (pratiquement 2 mois après).
+D'abord, j'ai été assez occupé par [ma participation à la Kubecon](https://blog.zwindler.fr/2024/03/22/kubecon-eu-2024-vendredi/) (c'était très intense) en mars, puis par d'autres projets. Je n'ai pas repris avant fin mai (pratiquement 2 mois après).
 
-De plus, la plupart des méthodes qui restent nécessitent un travail préparatoire chronophage (comptes à créer chez divers cloud providers, lecture de documentation sur des concepts que je n'ai pas encore utilisé comme OpenStack ou ClusterAPI).
+De plus, la plupart des méthodes qui restent nécessitent un travail préparatoire chronophage (comptes à créer chez divers cloud providers, lecture de documentation sur des concepts que je n'ai pas encore utilisé comme Kubernetes dans OpenStack, la ClusterAPI...).
 
 Mais surtout, j'ai travaillé sur d'autres choses autour du livre lui même. 
 
@@ -43,6 +43,8 @@ J'ai aussi travaillé sur la conception et la rédaction de ce site, et sur d'é
 [Twitter.com - lien vers le sondage](https://x.com/zwindler/status/1799069433367027949)
 
 Enfin, suite à de nombreuses remarques, j'ai commencer à explorer l'hypothèse de faire éditer mon livre par un vrai éditeur, et pas en auto édition comme je l'avais initialement envisagé. Je ne suis pas certain que cela aboutisse, mais on verra ce que ça donne.
+
+Si vous souhaitez obtenir des nouvelles de ce projet, c'est le moment rêvé pour s'inscrire à la newsletter de ce site. Il n'y aura pas plus d'un e-mail par mois et seulement quand j'aurais des avancées concrêtes à communiquer (dont la future sortie du livre).
 
 <div class="rounded-2xl">
 <div class="mx-auto max-w-[1330px] ">
