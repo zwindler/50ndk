@@ -4,7 +4,7 @@ description: "Avancement - 25 juillet 2024"
 tags:
     - avancement du projet
 date: "2024-07-25"
-cover: "logo.png"
+cover: "50ndk-logo-2.png"
 head:
     meta:
         - name: 'robots'
@@ -31,7 +31,7 @@ Au delà des 4 méthodes supplémentaires (OneKE m'a pris pas mal de temps car j
 
 J'ai aussi choisi un logo pour le livre, retravaillé à partir du sondage du mois précédent et des retours que j'ai eu :
 
-![](images/logo.png)
+![](images/50ndk-logo-2.png)
 
 J'ai aussi corrigé un "bug" dans la génération de la page de garde (qui n'avait pas la même taille que le format A5 donc ça faisait un ebook / PDF chelou).
 
