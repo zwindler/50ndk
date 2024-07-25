@@ -1,11 +1,10 @@
 ---
-title: "Site pour promouvoir le livre, premières relectures"
-description: "Avancement - 07 juin 2024"
+title: "6 mois d'écriture, le bout du tunnel approche"
+description: "Avancement - 25 juillet 2024"
 tags:
     - avancement du projet
-    - lancement du site
-date: "2024-06-07"
-cover: "covers/50ndk-6.jpeg"
+date: "2024-07-25"
+cover: "images/logo.png"
 head:
     meta:
         - name: 'robots'
