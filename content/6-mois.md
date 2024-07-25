@@ -4,7 +4,7 @@ description: "Avancement - 25 juillet 2024"
 tags:
     - avancement du projet
 date: "2024-07-25"
-cover: "images/logo.png"
+cover: "logo.png"
 head:
     meta:
         - name: 'robots'
