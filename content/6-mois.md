@@ -50,6 +50,8 @@ J'arrive à avoir une liste des chapitres restants qui tient dans un tweet (mêm
 
 Les 4 derniers sont plus anecdotiques et pas totalement figés. On verra quand on y sera !
 
+<hr>
+
 Si vous n'êtes pas abonnés, vous pouvez toujours le faire ici (je ne fais pas plus d'une news par mois, et seulement si le projet avance) :
 
 <div class="rounded-2xl">

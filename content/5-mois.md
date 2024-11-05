@@ -46,6 +46,8 @@ Enfin, suite à de nombreuses remarques, j'ai commencé à explorer l'hypothèse
 
 Si vous souhaitez obtenir des nouvelles de ce projet, c'est le moment rêvé pour s'inscrire à la newsletter de ce site. Il n'y aura pas plus d'un e-mail par mois et seulement quand j'aurais des avancées concrètes à communiquer (dont la future sortie du livre).
 
+<hr>
+
 <div class="rounded-2xl">
 <div class="mx-auto max-w-[1330px] ">
 <div class="max-w-screen-xl px-4 py-8 mx-auto flex items-center justify-center">

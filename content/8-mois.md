@@ -51,6 +51,8 @@ Prochaines étapes : finir les chapitres manquants, dont la liste commence à se
 * EKS (exemple avec Karpenter)
 * LeafCloud
 
+<hr>
+
 Si vous n'êtes pas abonnés, vous pouvez toujours le faire ici (je ne fais pas plus d'une news par mois, et seulement si le projet avance) :
 
 <div class="rounded-2xl">
