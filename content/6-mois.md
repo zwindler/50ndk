@@ -27,7 +27,7 @@ Voici la liste des chapitres qui ont été écrits depuis la dernière fois :
 
 Le livre avance doucement mais sûrement. 
 
-Au delà des 4 méthodes supplémentaires (OneKE m'a pris pas mal de temps car j'ai dû monter une infra OpenNebula et je n'y connaissais rien), j'ai fait un gros travail préliminaire pour préparer le prochain gros chapitre : la ClusterAPI !! Impossible de parler de façon d'installer Kubernetes sans la citer, mais il faut l'infra sous-jacente (dans l'exemple que je souhaite montrer) et j'ai quelques concepts à apprendre.
+Au-delà des 4 méthodes supplémentaires (OneKE m'a pris pas mal de temps car j'ai dû monter une infra OpenNebula et je n'y connaissais rien), j'ai fait un gros travail préliminaire pour préparer le prochain gros chapitre : la ClusterAPI !! Impossible de parler de façon d'installer Kubernetes sans la citer, mais il faut l'infra sous-jacente (dans l'exemple que je souhaite montrer) et j'ai quelques concepts à apprendre.
 
 J'ai aussi choisi un logo pour le livre, retravaillé à partir du sondage du mois précédent et des retours que j'ai eu :
 
@@ -46,7 +46,7 @@ J'arrive à avoir une liste des chapitres restants qui tient dans un tweet (mêm
 * karpenter
 * elemental + rke2
 * harvester
-* orbstack (j'attend d'avoir un Mac en septembre)
+* orbstack (j'attends d'avoir un Mac en septembre)
 
 Les 4 derniers sont plus anecdotiques et pas totalement figés. On verra quand on y sera !
 

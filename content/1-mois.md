@@ -16,7 +16,7 @@ head:
 
 ![](https://geps.dev/progress/44)
 
-Ca fait pile un mois que j'ai commencé le projet, j'ai ajouté 10 chapitres depuis le post précédent. Voici la liste des chapitres écrits depuis la dernière fois :
+Ça fait pile un mois que j'ai commencé le projet, j'ai ajouté 10 chapitres depuis le post précédent. Voici la liste des chapitres écrits depuis la dernière fois :
 
 * crc (openshift version desktop)
 * desktop-kubernetes (ensemble de scripts bash pour créer des VMs locales)
@@ -31,7 +31,7 @@ Ca fait pile un mois que j'ai commencé le projet, j'ai ajouté 10 chapitres dep
 
 ## Avancement
 
-A priori, j'ai terminé l'écriture de tous les chapitres de la section "outils Desktop" (ceux qui permettent d'installer un cluster Kubernetes basique sur votre machine de développement).
+À priori, j'ai terminé l'écriture de tous les chapitres de la section "outils Desktop" (ceux qui permettent d'installer un cluster Kubernetes basique sur votre machine de développement).
 
 J'ai "juste" besoin d'un Mac pour installer Orbstack, un outil réputé pour fournir une meilleure expérience utilisateur que Docker Desktop pour MacOS, mais qui ne fonctionne... QUE sous MacOS...
 

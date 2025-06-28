@@ -31,7 +31,7 @@ Voici la liste des 8 nouveaux chapitres qui ont été écrits depuis la dernièr
 
 **Beaucoup de travail réalisé en deux mois**. Je n'ai pas communiqué le mois dernier, car je n'ai pas trouvé les avancées assez significatives pour communiquer là-dessus. Du coup, il n'est pas étonnant que ce post soit plus chargé, puisqu'il y a deux mois de travail.
 
-Les plus attentives/attentifs d'entre vous auront remarqués que j'ai écrit **huit** chapitres et qu'il m'en reste **trois**, alors que lors de l'article précédent, je disais qu'il m'en restait seulement **neuf** à écrire...
+Les plus attentives/attentifs d'entre vous auront remarqué que j'ai écrit **huit** chapitres et qu'il m'en reste **trois**, alors que lors de l'article précédent, je disais qu'il m'en restait seulement **neuf** à écrire...
 
 C'est parce qu'au fil des recherches, j'ai découvert plusieurs nouveaux outils intéressants et que je n'avais pas le cœur à les ignorer alors qu'ils étaient prometteurs.
 
@@ -54,7 +54,7 @@ J'ai essayé beaucoup de solutions (wkhtmltopdf, pandoc + xelatex) et rien n'est
 
 ... jusqu'à ce que je tombe sur le projet [weasyprint.org](https://weasyprint.org/), véritable pépite pour transformer un HTML en PDF.
 
-Ça m'a demandé pas mal d'adaptations de mon CSS actuel (qui était sympa pour le rendu HTML, mais ne marchait pas du tout avec weazyprint), mais le rendu est beaucoup plus satisfaisant.
+Ça m'a demandé pas mal d'adaptations de mon CSS actuel (qui était sympa pour le rendu HTML, mais ne marchait pas du tout avec weasyprint), mais le rendu est beaucoup plus satisfaisant.
 
 Cette partie "construction d'un livre technique rédigé en markdown" sera d'ailleurs probablement open sourcée une fois le livre sorti.
 

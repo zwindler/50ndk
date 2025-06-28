@@ -42,9 +42,9 @@ J'ai aussi travaillé sur la conception et la rédaction de ce site, et sur d'é
 
 [Twitter.com - lien vers le sondage](https://x.com/zwindler/status/1799069433367027949)
 
-Enfin, suite à de nombreuses remarques, j'ai commencé à explorer l'hypothèse de faire éditer mon livre par un vrai éditeur, et pas en auto édition comme je l'avais initialement envisagé. Je ne suis pas certain que cela aboutisse, mais on verra ce que ça donne.
+Enfin, suite à de nombreuses remarques, j'ai commencé à explorer l'hypothèse de faire éditer mon livre par un vrai éditeur, et pas en auto-édition comme je l'avais initialement envisagé. Je ne suis pas certain que cela aboutisse, mais on verra ce que ça donne.
 
-Si vous souhaitez obtenir des nouvelles de ce projet, c'est le moment rêvé pour s'inscrire à la newsletter de ce site. Il n'y aura pas plus d'un e-mail par mois et seulement quand j'aurais des avancées concrètes à communiquer (dont la future sortie du livre).
+Si vous souhaitez obtenir des nouvelles de ce projet, c'est le moment rêvé pour s'inscrire à la newsletter de ce site. Il n'y aura pas plus d'un e-mail par mois et seulement quand j'aurai des avancées concrètes à communiquer (dont la future sortie du livre).
 
 <hr>
 

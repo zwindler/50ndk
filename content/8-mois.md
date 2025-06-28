@@ -31,7 +31,7 @@ La première, c'est que les vacances sont passées par là et que ce n'était é
 
 Mais au-delà de ça, je suis surtout tombé sur un chapitre qui m'a demandé pas mal de préparations : la cluster API. Ce chapitre m'a donné du fil à retordre car je me suis mis dans une position complexe : utiliser Proxmox VE comme fournisseur d'infrastructure. Et je peux dire avec le recul que si c'est une idée amusante, de pouvoir générer "as code" des clusters Kubernetes dans Proxmox VE, ce n'est pas amusant à configurer (du tout !). Mais ça fonctionne :D.
 
-Au delà de ces petites difficultés, j'ai aussi passé un long moment sur les relectures des chapitres existants (les miennes mais aussi celles de quelques "happy few" qui ont accès au brouillon).
+Au-delà de ces petites difficultés, j'ai aussi passé un long moment sur les relectures des chapitres existants (les miennes mais aussi celles de quelques "happy few" qui ont accès au brouillon).
 
 Un commentaire (extrêmement pertinent) qui est remonté plusieurs fois est qu'il manquait pour chaque "type" d'outil (ex. les outils desktop) une conclusion / un avis / un récap. C'est désormais chose faite.
 
