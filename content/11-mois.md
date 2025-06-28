@@ -8,7 +8,7 @@ cover: "11-mois/book.png"
 head:
     meta:
         - name: 'robots'
-          content: 'noindex, follow'
+          content: 'follow'
 
 ---
 

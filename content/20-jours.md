@@ -8,7 +8,7 @@ cover: "20-jours/makefile.png"
 head:
     meta:
         - name: 'robots'
-          content: 'noindex, follow'
+          content: 'follow'
 
 ---
 

@@ -8,7 +8,7 @@ cover: "10-mois/weasyprint.png"
 head:
     meta:
         - name: 'robots'
-          content: 'noindex, follow'
+          content: 'follow'
 
 ---
 

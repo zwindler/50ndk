@@ -8,7 +8,7 @@ cover: "50ndk-logo-2.png"
 head:
     meta:
         - name: 'robots'
-          content: 'noindex, follow'
+          content: 'follow'
 
 ---
 

@@ -8,7 +8,7 @@ cover: "8-mois/cartouche.png"
 head:
     meta:
         - name: 'robots'
-          content: 'noindex, follow'
+          content: 'follow'
 
 ---
 

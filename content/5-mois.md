@@ -9,7 +9,7 @@ cover: "covers/50ndk-6.jpeg"
 head:
     meta:
         - name: 'robots'
-          content: 'noindex, follow'
+          content: 'follow'
 
 ---
 
