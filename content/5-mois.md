@@ -45,19 +45,3 @@ J'ai aussi travaillé sur la conception et la rédaction de ce site, et sur d'é
 Enfin, suite à de nombreuses remarques, j'ai commencé à explorer l'hypothèse de faire éditer mon livre par un vrai éditeur, et pas en auto-édition comme je l'avais initialement envisagé. Je ne suis pas certain que cela aboutisse, mais on verra ce que ça donne.
 
 Si vous souhaitez obtenir des nouvelles de ce projet, c'est le moment rêvé pour s'inscrire à la newsletter de ce site. Il n'y aura pas plus d'un e-mail par mois et seulement quand j'aurai des avancées concrètes à communiquer (dont la future sortie du livre).
-
-<hr>
-
-<div class="rounded-2xl">
-<div class="mx-auto max-w-[1330px] ">
-<div class="max-w-screen-xl px-4 py-8 mx-auto flex items-center justify-center">
-<div class="border border-slate-200 p-24 rounded-md bg-white shadow-md ">
-<span class="text-3xl font-bold text-gray-700 ">Abonnez-vous à la newsletter pour recevoir les nouvelles du livre</span>
-<form action="https://rssfeedpulse.com/campaign/83cee038-722a-4fca-9e57-e8fc26326a06/subscribe" method="get" class="flex mt-10 gap-4">
-<input name="email" autocomplete="email" type="email" placeholder="votre email" class="p-2 text-gray-700 w-full border border-slate-200" required>
-<button class="bg-pink-500 font-bold text-2xl text-black w-full border border-slate-300 py-2 px-4 hover:bg-pink-600 hover:text-white transition-colors duration-200 ease-in-out rounded-md">S'abonner</button>
-</form>
-</div>
-</div>
-</div>
-</div>

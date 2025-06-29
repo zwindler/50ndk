@@ -20,12 +20,6 @@ export default defineAppConfig({
         sharing_networks: ['facebook', 'twitter', 'linkedin', 'email', 'pinterest', 'reddit', 'pocket', 'whatsapp', 'telegram', 'skype']
     },
 
-    newsletter: {
-        enabled: true,
-        form_action: 'https://rssfeedpulse.com/api/campaign/83cee038-722a-4fca-9e57-e8fc26326a06/subscribe',
-        provider: 'rssfeedpulse',
-    },
-
     comments: {
         enabled: false,
         hyvor_talk: {
