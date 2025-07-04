@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "app_id": "app_9efaeda6-3552-4075-98c8-696e25f2e61d",
+      "org_id": "user_ad04c8b8-29c2-47c4-89b1-1d62d6aed521",
+      "deploy_url": "https://github.com/zwindler/50ndk.git",
+      "git_ssh_url": "https://github.com/zwindler/50ndk.git",
+      "name": "50ndk",
+      "alias": "50ndk"
+    }
+  ]
+}
