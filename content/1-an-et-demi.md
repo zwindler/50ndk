@@ -81,5 +81,3 @@ Je devrais recevoir les "premières épreuves" mi/fin juillet.
 > Ces exemplaires sont les premières versions d'un texte imprimé destinées à être passées en revue par l'auteur et les éditeurs pour qu'ils y apportent leurs corrections et révisions
 
 Donc normalement dans un mois, vous aurez un autre article à lire.
-
-
