@@ -21,9 +21,11 @@ export default defineAppConfig({
     },
 
     analytics: {
-        provider: 'blogtally',
-        code: '95f3a3d0-323f-47d5-965c-e6e7e6207273'
-   },
+        providers: [ {
+            provider: 'hakanai',
+            code: '95f3a3d0-323f-47d5-965c-e6e7e6207273'
+        }]
+    },
 
     comments: {
         enabled: false,
