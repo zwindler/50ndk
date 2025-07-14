@@ -6,16 +6,16 @@ export default defineAppConfig({
     theme: 'mistral',
 
     // The name of the blog itself
-    name: '50 nuances de Kubernetes',
+    name: 'Kubernetes : 50 solutions pour les postes de développement et les clusters de production',
     avatar: '/images/avatar.jpg',
     // The description of the blog if any
-    description: 'Site de promotion du livre (en cours d`écriture) "50 Nuances de Kubernetes"',
+    description: 'Site de promotion du livre "Kubernetes : 50 solutions pour les postes de développement et les clusters de production"',
 
     analytics: {
-        providers: [ {
-            provider: 'hakanai',
+        provider: 'blogtally',
+        pirsch: {
             code: '95f3a3d0-323f-47d5-965c-e6e7e6207273'
-        }]
+        }
     },
 
     socials: {
