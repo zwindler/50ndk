@@ -3,7 +3,6 @@
   "name": "bloggrify-mistral-demo",
   "type": "module",
   "scripts": {
-    "preinstall": "npm install -g npm@11.4.2 && npx playwright install",
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
