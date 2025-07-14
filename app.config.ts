@@ -12,10 +12,10 @@ export default defineAppConfig({
     description: 'Site de promotion du livre "Kubernetes : 50 solutions pour les postes de développement et les clusters de production"',
 
     analytics: {
-        provider: 'blogtally',
-        pirsch: {
+        providers: [ {
+            provider: 'blogtally',
             code: '95f3a3d0-323f-47d5-965c-e6e7e6207273'
-        }
+        }]
     },
 
     socials: {
