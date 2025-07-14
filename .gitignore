@@ -6,6 +6,5 @@ node_modules
 .cache
 .output
 .data
-.env
 dist
 .DS_Store
