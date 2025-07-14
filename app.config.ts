@@ -17,17 +17,13 @@ export default defineAppConfig({
             code: '95f3a3d0-323f-47d5-965c-e6e7e6207273'
         }]
     },
-
     socials: {
-        twitter: 'https://twitter.com',
-        mastodon: 'https://piaille.fr',
-        youtube: 'https://youtube.com',
-        linkedin: 'https://linkedin.com',
-        facebook: 'https://facebook.com',
-        instagram: 'https://instagram.com',
-        github: 'https://github.com',
+        bluesky: 'https://bsky.app/profile/zwindler.fr',
+        mastodon: 'https://framapiaf.org/deck/@zwindler',
+        youtube: 'https://peertube.zwindler.fr/',
+        linkedin: 'https://www.linkedin.com/in/denis-germain/',
+        github: 'https://github.com/zwindler',
     },
-
 
     comments: {
         enabled: false,
