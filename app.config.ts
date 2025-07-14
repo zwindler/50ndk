@@ -20,6 +20,13 @@ export default defineAppConfig({
         sharing_networks: ['facebook', 'twitter', 'linkedin', 'email', 'pinterest', 'reddit', 'pocket', 'whatsapp', 'telegram', 'skype']
     },
 
+        analytics: {
+        providers: [ {
+            provider: 'blogtally',
+            code: '95f3a3d0-323f-47d5-965c-e6e7e6207273'
+        }]
+    },
+
     comments: {
         enabled: false,
         hyvor_talk: {
