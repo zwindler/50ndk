@@ -11,7 +11,7 @@ export default defineAppConfig({
     // The description of the blog if any
     description: 'Site de promotion du livre (en cours d`écriture) "50 Nuances de Kubernetes"',
     socials: {
-        twitter: 'https://bsky.app/profile/zwindler.fr',
+        bluesky: 'https://bsky.app/profile/zwindler.fr',
         mastodon: 'https://framapiaf.org/deck/@zwindler',
         youtube: 'https://peertube.zwindler.fr/',
         linkedin: 'https://www.linkedin.com/in/denis-germain/',
