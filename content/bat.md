@@ -23,9 +23,9 @@ Ceci expliquait que le projet ait pris "un peu de lag" (pour rappel, le brouillo
 
 Effectivement, un mot sur l'éditeur.
 
-J'étais resté discret sur son nom mais maintenant que le livre est visible sur toutes les plateformes d'achat de livres, ça n'a plus trop de sens de le cacher : il s'agit d'Eyrolles !
+J'étais resté discret sur son nom mais maintenant que le livre est visible sur toutes les plateformes d'achat de livres, ça n'a plus trop de sens de le cacher : il s'agit d'[Eyrolles](https://www.editions-eyrolles.com/) !
 
-Je suis particulièrement honoré que mon projet de livre ait été accepté par cet éditeur dont j'ai déjà lu plusieurs ouvrages, tous de grande qualité, notamment pendant mes années d'études. Et merci aussi à Nicolas Kovacs (Microlinux) pour la mise en relation, qui a sûrement joué.
+Je suis particulièrement honoré que mon projet de livre ait été accepté par cet éditeur dont j'ai déjà lu plusieurs ouvrages, tous de grande qualité, notamment pendant mes années d'études. Et merci aussi à Nicolas Kovacs ([Microlinux](https://www.microlinux.fr/)) pour la mise en relation, qui a sûrement joué.
 
 ## C'est quoi un "Bon à Tirer" ?
 
@@ -43,7 +43,7 @@ Il est donc trop tard pour changer une virgule ou corriger une dernière typo. F
 
 La prochaine étape, c'est donc l'impression. Un peu avant la sortie. un petit nombre d'ouvrages seront distribués à certaines personnes de la communauté Cloud Native (et j'en aurais aussi quelques uns).
 
-Parmi ces gens, il y a aussi 3 personnes qui ont particulièrement contribué à ce livre et qui vont profiter **en plus** d'un petit cadeau. J'ai eu l'idée de concevoir un "coin" à partir du logo du livre, un peu comme ça se fait dans la Cybersec (l'idée me vient de CME, merci **mgpn** 😘).
+Parmi ces gens, il y a aussi 3 personnes qui ont particulièrement contribué à ce livre et qui vont profiter **en plus** d'un petit cadeau. J'ai eu l'idée de concevoir un "coin" à partir du logo du livre, un peu comme ça se fait dans la Cybersec (l'idée me vient de CME/NetExec, merci **[mgpn](https://github.com/mpgn)** 😘).
 
 ![](images/bat/token.jpg)
 
