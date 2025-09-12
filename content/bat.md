@@ -45,7 +45,7 @@ La prochaine étape, c'est donc l'impression. Un peu avant la sortie. un petit n
 
 Parmi ces gens, il y a aussi 3 personnes qui ont particulièrement contribué à ce livre et qui vont profiter **en plus** d'un petit cadeau. J'ai eu l'idée de concevoir un "coin" à partir du logo du livre, un peu comme ça se fait dans la Cybersec (l'idée me vient de CME, merci **mgpn** 😘).
 
-![](bat/token.jpg)
+![](images/bat/token.jpg)
 
 Pour celles et ceux qui ne connaissent pas le concept, c'est un genre de médaille :
 
@@ -57,6 +57,6 @@ Je vous laisse essayer de deviner qui sont les 3 personnes qui m'ont aidé, si v
 
 Vous me connaissez, j'adore les goodies. Alors vous l'aurez surement deviné, il y aura aussi des petits cadeaux pour les gens qui auront acheté le livre et que je croiserai IRL.
 
-![](bat/stickers.jpg)
+![](images/bat/stickers.jpg)
 
 Donc à l'avenir, si vous avez acheté mon livre, n'hésitez pas à me demander un sticker du logo du livre, je vous le donnerai, s'il m'en reste !

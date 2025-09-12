@@ -34,7 +34,7 @@ Je suis quand même content, car on a dépassé la barre symbolique de la moiti�
 
 Suite à une idée qu'on m'a soufflée quand j'ai montré le brouillon du livre, j'ajoute un élément à chaque chapitre : un *cartouche* à la toute fin qui sert de conclusion et qui permet d'avoir un aperçu rapide des forces et des faiblesses de la solution.
 
-![](images/toto/cartouche.png)
+![](images/2-mois/cartouche.png)
 
 J'ai aussi pas mal retravaillé la partie génération du livre, suite à la découverte d'un répo bien plus avancé que ce que j'avais trouvé jusqu'à présent.
 
