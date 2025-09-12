@@ -1,6 +1,6 @@
 ---
-title: ""
-description: ""
+title: "Bon à Tirer : le livre part à l'impression !"
+description: "Après avoir signé le Bon à Tirer chez Eyrolles, mon livre sur Kubernetes est enfin prêt pour l'impression. Découvrez les coulisses de cette dernière étape avant la publication."
 tags:
     - avancement du projet
 date: "2025-09-12"
