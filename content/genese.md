@@ -33,12 +33,8 @@ Je "pitche" l'idée sur Twitter et rapidement, j'ai plus de 200 personnes intér
 
 ![](images/genese/genese1.png)
 
-[x.com/zwindler](https://x.com/zwindler/status/1745358435762274658)
-
 Je fais donc une recherche sur Internet des options disponibles et j'arrive rapidement à créer un tableur avec presque 70 lignes
 
 ![](images/genese/genese2.png)
-
-[x.com/zwindler](https://x.com/zwindler/status/1745456748956409899)
 
 Le projet était lancé !
