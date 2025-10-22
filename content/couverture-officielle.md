@@ -1,5 +1,5 @@
 ---
-title: "Couverture officielle : la révélation tant attendue (lol) !"
+title: "Couverture officielle : la révélation tant attendue (rien que ça) !"
 description: "Découvrez enfin la couverture officielle de 'Kubernetes : 50 solutions pour les postes de développement et les clusters de production'"
 tags:
     - avancement du projet
