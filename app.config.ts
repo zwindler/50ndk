@@ -6,7 +6,7 @@ export default defineAppConfig({
     theme: 'mistral',
 
     // The name of the blog itself
-    name: 'Kubernetes : Kubernetes : 50 solutions pour les postes de dev et les clusters de prod',
+    name: 'Kubernetes : 50 solutions pour les postes de dev et les clusters de prod',
     avatar: '/images/avatar.jpg',
     // The description of the blog if any
     description: 'Site de promotion du livre "Kubernetes : 50 solutions pour les postes de développement et les clusters de production"',
