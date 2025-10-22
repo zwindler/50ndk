@@ -43,7 +43,7 @@ export default defineAppConfig({
             default: true,
             name: 'Denis Germain',
             description:
-            'Denis Germain, auteur du livre "50 nuances de Kubernetes", est SRE le jour, blogger tech la nuit (https://blog.zwindler.fr) et membre organisateur des conférences Kubernetes Community Days France et BDX I/O entre les deux.',
+            'Denis Germain, auteur du livre "Kubernetes : 50 solutions pour les postes de développement et les clusters de production" édité chez Eyrolles, est platform engineer, spécialiste de Kubernetes depuis 2017. Il est également blogger tech sur https://blog.zwindler.fr. Il a participé à de nombreuses conférences en France et à l\'étranger sur des sujets liés à Kubernetes et aux infrastructures cloud natives.',
             avatar: '/images/avatar.jpg',
             socials: {
                 mastodon: 'https://framapiaf.org/deck/@zwindler',
