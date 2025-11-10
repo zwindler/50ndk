@@ -5,7 +5,7 @@ tags:
     - avancement du projet
     - feedback
 date: "2025-11-10"
-cover: "books.png"
+cover: "sortie-officielle/books.jpg"
 head:
     meta:
         - name: 'robots'
