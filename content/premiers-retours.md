@@ -14,9 +14,9 @@ head:
 
 Ça fait maintenant un peu plus d'un mois que le livre est sorti, et je commence à recevoir vos premiers retours !
 
-Je dois vous avouer que c'est un toujours moment un peu particulier quand quelqu'un me tag pour me parler de mon livre.
+Je dois vous avouer que c'est toujours un moment un peu particulier quand quelqu'un me tag pour me parler de mon livre.
 
-J'ai quand même consacré 2 ans à ce "side project"... A douter parfois, à me demander si ça allait vraiment intéresser quelqu'un... et bien j'ai un début de réponse.
+J'ai quand même consacré 2 ans à ce "side project"... À douter parfois, à me demander si ça allait vraiment intéresser quelqu'un... et bien j'ai un début de réponse.
 
 Et franchement, ça me fait super plaisir de voir que le livre trouve son public 😊.
 
@@ -26,7 +26,7 @@ Voici quelques-uns des retours que j'ai reçus (avec l'accord des personnes conc
 
 > Je viens de finir le livre de zwindler
 > 
-> Comme annoncé ce livre n'est pas un livre sur l'administration et la gestion de clusters Kubernetes. Par contre il vous permettra de choisir la méthode la plus adaptée à votre environnement pour l'installation d'un cluster Kubernetes.
+> Comme annoncé, ce livre n'est pas un livre sur l'administration et la gestion de clusters Kubernetes. Par contre, il vous permettra de choisir la méthode la plus adaptée à votre environnement pour l'installation d'un cluster Kubernetes.
 > 
 > En effet, allant du desktop aux serveurs bare métal, en passant par les offres des grands cloud providers, Denis nous offre une étude presque exhaustive des différentes solutions pour installer un cluster K8s.
 >
