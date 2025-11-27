@@ -1,0 +1,73 @@
+<section class="widget book-links">
+    <div class="widget-icon">
+        📚
+    </div>
+    <h2 class="widget-title section-title">Commander le livre</h2>
+    
+    <div class="widget-body">
+        <div class="book-link">
+            <a href="https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/" target="_blank" rel="noopener">
+                <strong>Eyrolles</strong><br>
+                <span>Commander chez Eyrolles</span>
+            </a>
+        </div>
+        <div class="book-link">
+            <a href="https://www.cultura.com/p-kubernetes-50-solutions-pour-les-postes-de-developpement-et-les-clusters-de-production-9782416022647.html" target="_blank" rel="noopener">
+                <strong>Cultura</strong><br>
+                <span>Commander chez Cultura</span>
+            </a>
+        </div>
+        <div class="book-link">
+            <a href="https://www.amazon.fr/Kubernetes-solutions-d%C3%A9veloppement-clusters-production/dp/2416022644" target="_blank" rel="noopener">
+                <strong>Amazon</strong><br>
+                <span>Commander sur Amazon</span>
+            </a>
+        </div>
+        <div class="book-link">
+            <a href="https://www.fnac.com/a21789006/Denis-Germain-Kubernetes" target="_blank" rel="noopener">
+                <strong>Fnac</strong><br>
+                <span>Commander à la Fnac</span>
+            </a>
+        </div>
+    </div>
+</section>
+
+<style>
+.widget.book-links {
+    background: var(--card-background);
+    border-radius: var(--card-border-radius);
+    padding: var(--card-padding);
+    margin-bottom: 1.5rem;
+}
+
+.widget.book-links .widget-body {
+    margin-top: 1rem;
+}
+
+.widget.book-links .book-link {
+    margin-bottom: 1rem;
+    padding: 0.75rem;
+    background: var(--body-background);
+    border-radius: 8px;
+    transition: transform 0.2s;
+}
+
+.widget.book-links .book-link:hover {
+    transform: translateX(5px);
+}
+
+.widget.book-links .book-link a {
+    text-decoration: none;
+    color: var(--body-text-color);
+}
+
+.widget.book-links .book-link strong {
+    color: var(--accent-color);
+    font-size: 1.1em;
+}
+
+.widget.book-links .book-link span {
+    font-size: 0.9em;
+    opacity: 0.8;
+}
+</style>
