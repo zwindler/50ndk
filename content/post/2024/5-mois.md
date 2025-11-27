@@ -7,8 +7,6 @@ image: /images/covers/50ndk-6.jpeg
 tags:
 - avancement du projet
 - lancement du site
-categories:
-- Kubernetes
 ---
 
 ## 33 chapitres écrits

@@ -6,8 +6,6 @@ date: '2024-07-25'
 image: /images/50ndk-logo-2.png
 tags:
 - avancement du projet
-categories:
-- Kubernetes
 ---
 
 ## 37 chapitres écrits

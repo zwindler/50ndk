@@ -7,8 +7,6 @@ image: /images/covers/50ndk-5.jpeg
 tags:
 - génèse
 - avancement du projet
-categories:
-- Kubernetes
 ---
 
 ## D'où est venue l'idée du livre ?

@@ -7,8 +7,6 @@ date: '2025-09-23'
 image: /images/covers/1758627102027.jpeg
 tags:
 - avancement du projet
-categories:
-- Kubernetes
 ---
 
 

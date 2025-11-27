@@ -36,6 +36,8 @@ params:
     readingTime: true
     license:
       enabled: false
+    badge:
+      enabled: false
     
   comments:
     enabled: false
@@ -46,9 +48,6 @@ params:
       - type: archives
         params:
           limit: 5
-      - type: categories
-        params:
-          limit: 10
       - type: tag-cloud
         params:
           limit: 10
@@ -71,7 +70,6 @@ menu:
 
 taxonomies:
   tag: tags
-  category: categories
 
 markup:
   goldmark:

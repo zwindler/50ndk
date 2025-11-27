@@ -6,8 +6,6 @@ date: '2024-01-31'
 image: /images/20-jours/makefile.png
 tags:
 - avancement du projet
-categories:
-- Kubernetes
 ---
 
 ## Liste des chapitres qui ont été écrits jusqu'à présent

@@ -6,8 +6,6 @@ date: '2024-11-05'
 image: /images/10-mois/weasyprint.png
 tags:
 - avancement du projet
-categories:
-- Kubernetes
 ---
 
 ## 47 chapitres écrits, il n'en reste que trois

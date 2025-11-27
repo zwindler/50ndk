@@ -8,8 +8,6 @@ date: '2025-11-24'
 image: /images/reviews/tableau.jpg
 tags:
 - avancement du projet
-categories:
-- Kubernetes
 ---
 
 Ça fait maintenant un peu plus d'un mois que le livre est sorti, et je commence à recevoir vos premiers retours !

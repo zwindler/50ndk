@@ -8,8 +8,6 @@ image: /images/sortie-officielle/books.jpg
 tags:
 - avancement du projet
 - feedback
-categories:
-- Kubernetes
 ---
 
 ## Déjà un mois !

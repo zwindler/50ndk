@@ -8,8 +8,6 @@ date: '2025-10-22'
 image: /images/sortie-officielle/books.jpg
 tags:
 - avancement du projet
-categories:
-- Kubernetes
 ---
 
 

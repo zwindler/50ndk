@@ -6,8 +6,6 @@ date: '2024-02-11'
 image: /images/1-mois/cover.png
 tags:
 - avancement du projet
-categories:
-- Kubernetes
 ---
 
 ## 22 chapitres écrits

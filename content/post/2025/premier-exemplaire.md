@@ -7,8 +7,6 @@ date: '2025-10-07'
 image: /images/covers/kubernetes-50-solutions-cover.jpg
 tags:
 - avancement du projet
-categories:
-- Kubernetes
 ---
 
 ## Il est là ! 🎉

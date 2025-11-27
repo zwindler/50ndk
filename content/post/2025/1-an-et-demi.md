@@ -6,8 +6,6 @@ date: '2025-06-28'
 image: /images/50ndk-logo-2.png
 tags:
 - avancement du projet
-categories:
-- Kubernetes
 ---
 
 ## Denis passe sous un tunnel

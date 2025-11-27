@@ -6,8 +6,6 @@ date: '2024-09-06'
 image: /images/8-mois/cartouche.png
 tags:
 - avancement du projet
-categories:
-- Kubernetes
 ---
 
 ## 41 chapitres écrits, plus que 9

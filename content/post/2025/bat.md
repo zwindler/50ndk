@@ -8,8 +8,6 @@ date: '2025-09-12'
 image: /images/bat/stickers.jpg
 tags:
 - avancement du projet
-categories:
-- Kubernetes
 ---
 
 

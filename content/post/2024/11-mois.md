@@ -6,8 +6,6 @@ date: '2024-12-07'
 image: /images/11-mois/book.png
 tags:
 - avancement du projet
-categories:
-- Kubernetes
 ---
 
 ## Le premier draft est terminé 🎊
