@@ -4,7 +4,7 @@ description: Le livre est sorti depuis maintenant un mois. J'aimerais avoir vos 
   vos impressions, vos critiques constructives pour continuer à m'améliorer.
 slug: 1-mois-apres
 date: '2025-11-10'
-image: /images/sortie-officielle/books.jpg
+image: /images/bat/token.jpg
 tags:
 - avancement du projet
 - feedback
