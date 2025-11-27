@@ -51,6 +51,22 @@ params:
       - type: tag-cloud
         params:
           limit: 10
+      - type: links
+        params:
+          title: "📚 Commander le livre"
+          links:
+            - title: Eyrolles
+              description: Commander chez Eyrolles
+              website: https://www.eyrolles.com/Informatique/Livre/kubernetes-9782416022647/
+            - title: Cultura
+              description: Commander chez Cultura
+              website: https://www.cultura.com/p-kubernetes-50-solutions-pour-les-postes-de-developpement-et-les-clusters-de-production-9782416022647.html
+            - title: Amazon
+              description: Commander sur Amazon
+              website: https://www.amazon.fr/Kubernetes-solutions-d%C3%A9veloppement-clusters-production/dp/2416022644
+            - title: Fnac
+              description: Commander à la Fnac
+              website: https://www.fnac.com/a21789006/Denis-Germain-Kubernetes
 
 menu:
   main:
