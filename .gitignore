@@ -1,10 +1,5 @@
-node_modules
-*.log*
-.nuxt
-.idea
-.nitro
-.cache
-.output
-.data
-dist
+/public/
+/resources/
+.hugo_build.lock
 .DS_Store
+assets/jsconfig.json

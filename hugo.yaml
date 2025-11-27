@@ -1,0 +1,87 @@
+baseurl: https://50ndk.zwindler.fr/
+languageCode: fr-fr
+theme: github.com/CaiJimmy/hugo-theme-stack/v3
+title: "Kubernetes : 50 solutions pour les postes de dev et les clusters de prod"
+
+permalinks:
+  post: /:year/:month/:day/:slug/
+  page: /:slug/
+
+params:
+  mainSections:
+    - post
+  featuredImageField: image
+  rssFullContent: true
+  favicon: /favicon.ico
+  
+  sidebar:
+    emoji:
+    subtitle: "Site de promotion du livre"
+    avatar:
+      enabled: true
+      local: true
+      src: img/avatar.jpg
+
+  footer:
+    since: 2024
+    customText: ""
+
+  dateFormat:
+    published: "2 Jan 2006"
+    lastUpdated: "2 Jan 2006 15:04 MST"
+
+  article:
+    math: false
+    toc: true
+    readingTime: true
+    license:
+      enabled: false
+    badge:
+      enabled: false
+    
+  comments:
+    enabled: false
+
+  widgets:
+    homepage:
+      - type: search
+      - type: archives
+        params:
+          limit: 5
+      - type: tag-cloud
+        params:
+          limit: 10
+
+menu:
+  main:
+    - identifier: home
+      name: Accueil
+      url: /
+      weight: -100
+      params:
+        icon: home
+
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: -70
+      params:
+        icon: archives
+
+taxonomies:
+  tag: tags
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    lineNos: false
+    noClasses: false
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 4
+    ordered: true
+    startLevel: 2
