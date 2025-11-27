@@ -9,7 +9,7 @@ menu:
 
 ## À propos du projet
 
-<img src="/images/sortie-officielle/books.jpg" alt="Photo du livre" height="200" style="float: left; margin-right: 20px; margin-bottom: 10px;" />
+<img src="/images/sortie-officielle/books.jpg" alt="Photo du livre" style="float: left; margin-right: 20px; margin-bottom: 10px; max-height: 200px; width: auto;" />
 
 "Kubernetes : 50 solutions pour les postes de développement et les clusters de production" est un livre technique qui répond à une question que beaucoup se posent : **pourquoi diantre y a-t-il autant de distributions Kubernetes différentes ?** 
 
@@ -21,7 +21,7 @@ Le projet a démarré en janvier 2024 et représente 18 mois de veille technolog
 
 ## À propos de l'auteur
 
-<img src="/avatar.jpg" alt="Denis Germain" height="200" style="float: left; margin-right: 20px; margin-bottom: 10px;" />
+<img src="/avatar.jpg" alt="Denis Germain" style="float: left; margin-right: 20px; margin-bottom: 10px; max-height: 200px; width: auto;" />
 
 Denis Germain ([@zwindler](https://github.com/zwindler)) est Platform Engineer et spécialiste reconnu des technologies Kubernetes et Docker. [Diplômé de l'ENSEIRB-MATMECA en 2010](https://enseirb-matmeca.bordeaux-inp.fr/fr), il cumule plus de 15 ans d'expérience dans l'infrastructure et le cloud, avec une expertise particulière sur les architectures conteneurisées et les plateformes Kubernetes à grande échelle ces 7 dernières années.
 
