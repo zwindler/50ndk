@@ -67,6 +67,14 @@ Voici quelques-uns des retours que j'ai reçus (avec l'accord des personnes conc
 
 ---
 
+> J'ai été surpris par la diversité des méthodes d'installation présentées, et cela m'a donné envie d'en approfondir certaines — notamment côté edge — quand j'aurai un peu plus de temps !
+>
+> J'ai particulièrement apprécié la présence d'exemples sur différents cloud (Européens et Américain…) : Hetzner, AWS, OVH, Oracle Cloud, Scaleway…
+> 
+> **- Alexis La Goutte**, sur son blog [blog.mouais.net](https://blog.mouais.net/2026/01/22/lecture-50ndk.html)
+
+---
+
 ## Et vous ?
 
 Si vous avez lu le livre (ou si vous êtes en train de le lire), n'hésitez pas, vous aussi, à me faire part de vos retours ! Vous pouvez :
