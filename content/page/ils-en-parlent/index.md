@@ -7,7 +7,7 @@ menu:
     main:
         weight: -60
         params:
-            icon: heart
+            icon: tag
 ---
 
 Voici les retours que j'ai reçus sur le livre (avec l'accord des personnes concernées, évidemment).
