@@ -69,7 +69,7 @@ Je vais être honnête : je n'ai pas écrit ce livre pour l'argent. Le ratio "te
 
 J'ai donc décidé de **reverser intégralement ces 611,42€ à la [SNSM](https://www.snsm.org/)** — la Société Nationale de Sauvetage en Mer.
 
-[![Logo SNSM](/images/snsm/snsm-logo.png)](https://www.snsm.org/)
+<a href="https://www.snsm.org/"><img src="/images/snsm/snsm-logo.png" alt="Logo SNSM" style="max-height: 80px; width: auto;" /></a>
 
 C'est une cause qui m'est chère pour des raisons personnelles. Je suis originaire des Sables-d'Olonne, et mes grands-parents paternels ont toujours eu à cœur de soutenir les marins-sauveteurs. Ce sont des **bénévoles** qui partent en mer au péril de leur vie pour sauver des gens, avec souvent peu de moyens. Mes grands-parents ne sont plus là aujourd'hui, et c'est une façon pour moi de leur rendre un petit hommage, de continuer modestement ce qu'ils faisaient de leur vivant.
 
