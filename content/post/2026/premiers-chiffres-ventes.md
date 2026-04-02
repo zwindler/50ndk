@@ -71,7 +71,7 @@ J'ai donc décidé de **reverser intégralement ces 611,42€ à la [SNSM](https
 
 <a href="https://www.snsm.org/"><img src="/images/snsm/snsm-logo.png" alt="Logo SNSM" style="max-height: 200px; width: auto;" /></a>
 
-C'est une cause qui m'est chère pour des raisons personnelles. Une bonne partie de ma famille est originaire des Sables-d'Olonne en Vendée, et mes grands-parents paternels ont toujours eu à cœur de soutenir les marins-sauveteurs. Ce sont des **bénévoles** qui partent en mer au péril de leur vie pour sauver des gens, avec souvent peu de moyens. Mes grands-parents ne sont plus là aujourd'hui, et c'est une façon pour moi de leur rendre un petit hommage, de continuer modestement ce qu'ils faisaient de leur vivant.
+C'est une cause qui m'est chère pour des raisons personnelles. Une bonne partie de ma famille est originaire des côtes Vendéennes, et mes grands-parents paternels ont toujours eu à cœur de soutenir les marins-sauveteurs. Ce sont des **bénévoles** qui partent en mer au péril de leur vie pour sauver des gens, avec souvent peu de moyens. Mes grands-parents ne sont plus là aujourd'hui, et c'est une façon pour moi de leur rendre un petit hommage, de continuer modestement ce qu'ils faisaient de leur vivant.
 
 J'ai beaucoup de chance. Je n'ai pas besoin de cet argent. Et il me semble que 611€, ça peut vraiment faire quelque chose pour une association qui fonctionne essentiellement sur des dons.
 
