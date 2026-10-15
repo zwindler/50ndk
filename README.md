@@ -40,6 +40,10 @@ hugo
 # Les fichiers générés seront dans le dossier /public/
 ```
 
+## Déploiement
+
+Chaque push sur `main` déclenche le workflow `.github/workflows/pages.yml` qui build le site et le publie sur GitHub Pages (domaine perso `50ndk.zwindler.fr`, CNAME vers `zwindler.github.io`).
+
 ## Structure du projet
 
 ```
